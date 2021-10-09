@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">@color/purple_200</color>
+    <color name="colorPrimaryDark">@color/purple_500</color>
+    <color name="colorAccent">@color/white</color>
+    <color name="honeydew">#D9E5D6</color>
+    <color name="prussian_blue">#023047</color>
+    <color name="blue_green">#219EBC</color>
+    <color name="light_pink">#F4BCAF</color>
+    <color name="magic_mint">#B2FFD6</color>
+    <color name="color_1">#264653</color>
+    <color name="color_2">#2a9d8f</color>
+    <color name="color_3">#e9c46a</color>
+    <color name="color_4">#f4a261</color>
+    <color name="color_5">#e76f51</color>
+    <color name="color_6">#457b9d</color>
+    <color name="color_7">#a8dadc</color>
+    <color name="color_8">#e5989b</color>
+    <color name="color_9">#ddb892</color>
+    <color name="color_10">#81b29a</color>
+
+
+<!--  Main  background -->
+    <color name="start">#E91E63</color>
+    <color name="middle">#FF8445</color>
+    <color name="end">#FEA74C</color>
+    <color name="start2">#FF5151</color>
+
+
+
+
+
+
+
+</resources>

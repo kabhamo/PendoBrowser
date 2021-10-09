@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pendo Movie Browser</string>
+    <string name="button">Button</string>
+    <string name="dfg">dfg</string>
+    <string name="background_img">background_img</string>
+    <string name="sas_red_notice">SAS RED NOTICE</string>
+    <string name="description">Description</string>
+    <string name="refresh_back">Refresh/Back</string>
+</resources>
