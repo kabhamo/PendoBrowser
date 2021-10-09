@@ -28,7 +28,7 @@ An application that will allow users to browse through a selection of movies and
 - [MVVM](https://www.tutorialspoint.com/mvvm/index.htm)
 - [Stackverflow](https://stackoverflow.com/)
 
-![](pendo_screenshots/Popular.png)
+![Test Image 1](pendo_screenshots/Popular.png)
 ![](pendo_screenshots/Top_Rated.png)
 ![](pendo_screenshots/Details.png)
 ![](pendo_screenshots/Search.png)
