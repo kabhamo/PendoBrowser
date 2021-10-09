@@ -20,6 +20,11 @@ An application that will allow users to browse through a selection of movies and
 - Also working with XML helped me to paint my app to life with nice UI ,Quickly ship features with flexible designs.
 - At the beginning I face some difficulties with the MVVM Model design pattern architecture, but like always, I make it work!.
 
+## For Fast Testing on android phone
+- open Android Studio IDE -> Build -> Build Bundle(s)/APK(s) -> Build APK(s) 
+- Will download folder called debug it will contains tow files one file called "app-debug.apk" 
+- Send it to your Android phone and open it there.
+- Enjoy The App!
 
 ### Built with
 - [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
